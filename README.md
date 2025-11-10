@@ -54,6 +54,7 @@ Repositório do grupo contendo:
 ## Saída Esperada
  - Saída cadastrado com sucesso!
  - Aluno: João Silva
+ - Turma: Ana Néri
  - Horário: 15:30
  - Dia: 12/09
  - Status: Aguardando confirmação
