@@ -55,6 +55,7 @@ Repositório do grupo contendo:
  - Saída cadastrado com sucesso!
  - Aluno: João Silva
  - Horário: 15:30
+ - Dia: 12/09
  - Status: Aguardando confirmação
 
 ## 👩‍💻 Pessoas Desenvolvedoras
